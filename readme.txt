@@ -19,7 +19,7 @@ Then, either add the widget to your sidebar or add the `[microblog]` shortcode i
 
 The `[microblog]` shortcode supports several options:
 
-* ** num**: The number of microposts to show.  Defaults to `5`.  Use `-1` to show all microposts.
+* **num**: The number of microposts to show.  Defaults to `5`.  Use `-1` to show all microposts.
 
 * **null_text**: If no results are returned, shows this text.  Defaults to `(none)`.
 
